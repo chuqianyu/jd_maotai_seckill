@@ -125,6 +125,10 @@
 ## 打赏
 不用再打赏了，抢到茅台的同学请保持这份喜悦，没抢到的继续加油 :)  
 
+eid和fp要如何获取，能不能麻烦出一个指南？能找到的链接都404了
+解决方法：结算页面 按F12 选Console 输入_JdTdudfp 回车
+
+
 ## 感谢
 ##### 非常感谢原作者 https://github.com/zhou-xiaojun/jd_mask 提供的代码
 ##### 也非常感谢 https://github.com/wlwwu/jd_maotai 进行的优化
